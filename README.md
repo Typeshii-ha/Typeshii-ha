@@ -8,6 +8,7 @@
 
 <!---
 Typeshii-ha/Typeshii-ha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview l![images](https://github.com/user-attachments/assets/e5d5201d-cde8-426a-85fd-9c053a6aab36)
+ink to take a look at your changes.
 --->
 vowulence
